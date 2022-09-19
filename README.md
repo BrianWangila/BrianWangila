@@ -1,25 +1,46 @@
-require_relative 
-
-<div className="header">
+<!-- <div class="header">
   <p>Hey, I'm </p>
   <span>Brian Wangila</span> 
   <p>Fullstack Software Developer</p>
-</div>
+</div> -->
 
 # Hi 👋, I'm Brian!
 
-I am a fullstack software developer with a biased love for backend web development. I'm currently working with REACT to create single-page web apps, RUBY and RUBY-on-RAILS to create strong backend for my websites, and SQL to create and manipulate databases and tables. I strive to make the technology industry more accessible to aspiring developers and engineers by creating and collaborating on projects that aim to solve the daily real human problems. I've learned many lessons along the way that i'll be glad to share with anywhere who might be interested.
+I am a fullstack software developer with a biased love for backend web development. I'm currently working with REACT to create single-page web apps, JAVASCRIPT, RUBY, RUBY-on-RAILS, SINATRA, SQL, and MySQL. I strive to make the technology industry more accessible to aspiring developers and engineers by creating and collaborating on projects that aim to solve the daily real human problems. I've learned many lessons along the way that i'll be glad to share with anywhere who might be interested.
+
 <!--
 **BrianWangila/BrianWangila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## 📫 How to reach me: ...
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]() 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]() 
+
+
+
+## 🔭 I’m currently working on ...
+- Finishing my old projects
+- DAM website
+
+## 🌱 I’m currently learning ...
+- Ruby-on-Rails
+- Ruby
+- Cloud computing
+
+## 👯 I’m looking to collaborate on ...
+- Any projects that seeks to solve problems
+
+## 💬 Ask me about ...
+- Backend Web development
+- Hiking and group activities
+
+## 😄 Pronouns: ...
+- Him
+- He
+
+## ⚡ Fun fact: ...
+- 
+
