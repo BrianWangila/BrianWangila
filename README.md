@@ -1,5 +1,14 @@
-### Hi there 👋
+require_relative 
 
+<div className="header">
+  <p>Hey, I'm </p>
+  <span>Brian Wangila</span> 
+  <p>Fullstack Software Developer</p>
+</div>
+
+# Hi 👋, I'm Brian!
+
+I am a fullstack software developer with a biased love for backend web development. I'm currently working with REACT to create single-page web apps, RUBY and RUBY-on-RAILS to create strong backend for my websites, and SQL to create and manipulate databases and tables. I strive to make the technology industry more accessible to aspiring developers and engineers by creating and collaborating on projects that aim to solve the daily real human problems. I've learned many lessons along the way that i'll be glad to share with anywhere who might be interested.
 <!--
 **BrianWangila/BrianWangila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
