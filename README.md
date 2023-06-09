@@ -24,10 +24,13 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on ...
 - Finishing my old projects
 - DAM website
+- Project management system
 
 ## 🌱 I’m currently learning ...
 - Ruby-on-Rails
 - Ruby
+- PHP Laravel
+- VueJS and React
 - Cloud computing
 
 ## 👯 I’m looking to collaborate on ...
