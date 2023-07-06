@@ -1,19 +1,9 @@
-<style>
-  .heading1 {
-    color: red;
-  }
-</style>
 
-# Hi 👋, I'm Brian! {#identifier .heading1}
+# Hi 👋, I'm Brian!
 
-I am a fullstack software developer with a biased love for backend web development. I'm currently working with REACT to create single-page web apps, JAVASCRIPT, RUBY, RUBY-on-RAILS, SINATRA, SQL, and MySQL. I strive to make the technology industry more accessible to aspiring developers and engineers by creating and collaborating on projects that aim to solve the daily real human problems. I've learned many lessons along the way that i'll be glad to share with anywhere who might be interested.
+I am a fullstack software developer with a biased love for backend web development. I'm currently working with REACT and VueJS to create single-page web apps, JAVASCRIPT, RUBY-on-RAILS, Laravel, and MySQL. I strive to make the technology industry more accessible to aspiring developers and engineers by creating and collaborating on projects that aim to solve the daily real human problems. I've learned many lessons along the way that I'll be glad to share with anyone who might be interested.
 
-<!--
-**BrianWangila/BrianWangila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
 ## 📫 How to reach me: ...
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-w-wangila/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]() 
@@ -29,9 +19,10 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 - Ruby-on-Rails
 - Ruby
-- PHP Laravel
+- PHP, Laravel
 - VueJS and React
 - Cloud computing
+- SRE and devOps
 
 ## 👯 I’m looking to collaborate on ...
 - Any projects that seeks to solve problems
@@ -45,5 +36,5 @@ Here are some ideas to get you started:
 - He
 
 ## ⚡ Fun fact: ...
-- <div style="color:orange">The best way to stay out of people's business is to know what their business is</div>
+- <div style="color:red">The best way to stay out of people's business is to know what their business is</div>
 
