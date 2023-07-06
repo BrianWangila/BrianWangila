@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 - He
 
 ## ⚡ Fun fact: ...
-- <P style={color: red}>The best way to stay out of people's business is to know what their business is</P>
+- <P style="color: orange">The best way to stay out of people's business is to know what their business is</P>
 
