@@ -1,10 +1,9 @@
-<!-- <div class="header">
-  <p>Hey, I'm </p>
-  <span>Brian Wangila</span> 
-  <p>Fullstack Software Developer</p>
-</div> -->
+<style>
+  .heading1 {
+    color: red;
+</style>
 
-# Hi 👋, I'm Brian!
+# Hi 👋, I'm Brian! {#identifier .heading1}
 
 I am a fullstack software developer with a biased love for backend web development. I'm currently working with REACT to create single-page web apps, JAVASCRIPT, RUBY, RUBY-on-RAILS, SINATRA, SQL, and MySQL. I strive to make the technology industry more accessible to aspiring developers and engineers by creating and collaborating on projects that aim to solve the daily real human problems. I've learned many lessons along the way that i'll be glad to share with anywhere who might be interested.
 
@@ -45,5 +44,5 @@ Here are some ideas to get you started:
 - He
 
 ## ⚡ Fun fact: ...
-- <P style="color: orange">The best way to stay out of people's business is to know what their business is</P>
+- <div style="color:orange">The best way to stay out of people's business is to know what their business is</div>
 
